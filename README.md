@@ -20,12 +20,12 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ## 🧠 Tecnologias e Ferramentas
 
-🧩 **Linguagens:** Python | JavaScript | SQL | Bash  
+🧩 **Linguagens:** Python | JavaScript | HTML & CSS
 🧱 **Frameworks:** Django | Flask | FastAPI | Django REST Framework  
 🗄️ **Banco de dados:** PostgreSQL | MySQL | MongoDB  
-⚙️ **DevOps:** Git | GitHub Actions | Docker | Linux  
+⚙️ **DevOps:** Git | GitHub | Docker | Linux  
 🧪 **Testes:** Pytest | TDD | Linting  
-🔗 **Outros:** RESTful APIs | JWT | OAuth2 | CI/CD
+🔗 **Outros:** RESTful APIs | JWT
 
 ---
 
