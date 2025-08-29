@@ -1,4 +1,4 @@
-<h1 align="center">Raphael 👨‍💻 | Back-End Developer</h1>
+<h1 align="center">Gabriel Veloso 👨‍💻 | Back-End Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou Raphael, desenvolvedor **Back-End** com foco em Python, APIs escaláveis e automações inteligentes.  
+Olá! Sou Gabriel, desenvolvedor **Back-End** com foco em Python, APIs escaláveis e automações inteligentes.  
 Tenho paixão por resolver problemas reais com código limpo, arquitetura bem pensada e entregas consistentes.  
 Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência e evolução contínua. 🚀
 
@@ -34,21 +34,11 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| 💼 Projeto | 📝 Descrição | 🛠️ Tecnologias | 🔗 Link |
-|-----------|--------------|----------------|--------|
-| **Sistema Bancário** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
-| **Gestor de Atletas** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
-| **Estacionamento** | Controle de entrada e saída de veículos | Flask, JavaScript | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
-
----
-
 ## 📫 Onde me encontrar
 
-🔗 [LinkedIn](https://www.linkedin.com/in/raphael-brito-sa)  
-💻 [GitHub](https://github.com/Raphael2203)  
-📧 Email: pererap015@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-veloso-dev)  
+💻 [GitHub](https://github.com/Veloso-holanda)  
+📧 Email: holanda.gvs@gmail.com
 
 ---
 
@@ -59,12 +49,5 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 - Testes avançados com Pytest  
 - Deploy com Docker e Kubernetes  
 - Boas práticas de Clean Code e SOLID
-
----
-
-## ⚡ Curiosidade
-
-> “Código é poesia quando resolve problemas com elegância.”  
-🎯 Busco impacto real, clareza e eficiência em cada linha que escrevo.
 
 ---
